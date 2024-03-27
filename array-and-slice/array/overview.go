@@ -1,4 +1,4 @@
-package overview
+package array
 
 import "fmt"
 
